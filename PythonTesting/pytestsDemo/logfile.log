@@ -1,0 +1,11 @@
+2023-12-04 17:19:09,830 :INFO : pytestsDemo.BaseClass :Rahul
+2023-12-04 17:19:09,831 :INFO : pytestsDemo.BaseClass :rahulshettyacademy.com
+2023-12-04 17:26:33,231 :INFO : pytestsDemo.BaseClass :Rahul
+2023-12-04 17:26:33,232 :INFO : pytestsDemo.BaseClass :rahulshettyacademy.com
+2023-12-04 17:27:46,804 :INFO : pytestsDemo.BaseClass :Rahul
+2023-12-04 17:27:46,804 :INFO : pytestsDemo.BaseClass :rahulshettyacademy.com
+2023-12-04 17:28:37,690 :INFO : test_editProfile :Rahul
+2023-12-04 17:28:37,690 :INFO : test_editProfile :rahulshettyacademy.com
+2023-12-04 17:33:47,240 :INFO : test_editProfile :Rahul
+2023-12-04 17:33:47,240 :INFO : test_editProfile :rahulshettyacademy.com
+2023-12-04 17:33:47,270 :CRITICAL : pytestsDemo.test_logging :Critical issue
