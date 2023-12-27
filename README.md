@@ -1,4 +1,4 @@
-Automating web functions using Python and Selenium Framework.
+Automation with Python and Selenium Framework.
   -  Showcases building a framework from scratch and implementing end to end testing.
   -  Different techniques to automate web elements
   -  Utilizing Waits
