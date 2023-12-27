@@ -6,4 +6,4 @@ MyTest file in PythonTesting showcases different functions/interactions being pe
   - iFrames
   - child window
   - alerts
-The while True: Pass is needed for my system but can be commented out
+  - The while True: Pass at the end of the file is needed for my system but can be commented out
