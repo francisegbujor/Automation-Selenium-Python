@@ -1,5 +1,13 @@
 Automating web functions using Python and Selenium Framework.
-The PythonSelFramework folder showcases building a framework from scratch and implementing end to end testing.
-PythonTesting folder details testing different functionalities in a website.
-  - Look at MyTest file in PythonTesting
+  -  Showcases building a framework from scratch and implementing end to end testing.
+  -  Different techniques to automate web elements
+  -  Utilizing Waits
+  -  Functional Automation
+  -  Handling advanced User Interactions and Child windows
+  -  Alerts pop ups
+  -  Unit testing
+  -  Logging and generating Html Reports
+  -  Integrating Framework to Jenkins
+  -  Reading/Writing data from Excel to selenium python framework
+  -  Look at MyTest file in PythonTesting folder
   - The while True: Pass at the end of some files is needed for my system but can be commented out
