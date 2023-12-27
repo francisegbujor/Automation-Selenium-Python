@@ -1,4 +1,4 @@
-Automating web functions using Python and Selenium Framework
+Automating web functions using Python and Selenium Framework.
 MyTest file in PythonTesting showcases different functions/interactions being performed. Some are perfomed dynamically
   - radio buttons
   - checkboxes
