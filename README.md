@@ -8,6 +8,7 @@ Automation with Python and Selenium Framework.  Look at Mytest file in PythonTes
   -  Alerts pop ups
   -  Unit testing
   -  Logging and generating Html Reports
+  -  Automatic screen captures on test failures
   -  Integrating Framework to Jenkins
   -  Reading/Writing data from Excel to selenium python framework
   - The while True: Pass at the end of some files is needed for my system but can be commented out
