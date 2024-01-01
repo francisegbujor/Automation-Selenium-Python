@@ -1,5 +1,6 @@
-Automation with Python and Selenium Framework.
-  -  Showcases building a framework from scratch and implementing end to end testing.
+Automation with Python and Selenium Framework.  Look at Mytest file in PythonTesting folder and test_e2eprac file in PythonSelFramework Folder
+  -  building automation framework 
+  -  implementing end to end testing.
   -  Different techniques to automate web elements
   -  Utilizing Waits
   -  Functional Automation
@@ -9,5 +10,4 @@ Automation with Python and Selenium Framework.
   -  Logging and generating Html Reports
   -  Integrating Framework to Jenkins
   -  Reading/Writing data from Excel to selenium python framework
-  -  Look at MyTest file in PythonTesting folder
   - The while True: Pass at the end of some files is needed for my system but can be commented out
